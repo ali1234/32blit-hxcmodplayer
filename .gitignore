@@ -1,0 +1,6 @@
+build/
+build.em/
+build.stm32/
+build.sdl/
+cmake-build-*/
+.idea/
