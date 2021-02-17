@@ -5,6 +5,6 @@ splash:
   file: assets/no-image.png
 icon:
   file: assets/no-icon.png
-version: v0.0.1
+version: v0.0.2
 category: demo # game, demo, utility, ...
-
+url: https://github.com/ali1234/32blit-hxcmodplayer

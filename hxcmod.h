@@ -12,7 +12,7 @@
 // File : hxcmod.h
 // Contains: a tiny mod player
 //
-// Written by: Jean Franï¿½ois DEL NERO
+// Written by: Jean François DEL NERO
 //
 // Change History (most recent first):
 ///////////////////////////////////////////////////////////////////////////////////

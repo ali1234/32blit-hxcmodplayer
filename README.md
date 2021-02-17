@@ -2,7 +2,8 @@
 
 ![Build](https://github.com/ali1234/32blit-hxcmodplayer/workflows/Build/badge.svg)
 
-A simple example of using [HxCModPlayer](https://github.com/jfdelnero/HxCModPlayer) to play Protracker modules.
+A simple example of using [HxCModPlayer](https://github.com/jfdelnero/HxCModPlayer) to
+play Protracker modules.
 
 ## Notes
 
